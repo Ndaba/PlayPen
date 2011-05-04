@@ -1,0 +1,9 @@
+A palindrome is a word, phrase, verse, or sentence that reads the same backward or forward, eg "anna".
+
+I want you to create a new Console Application called Palindromes.
+Then create a new class called Palindrome, this class should have a public static method accepting a single parameter of type string and returning a bool.
+
+The string needs to be tested to determine if it is a palindrome.
+If it is a palindrome the method should return true, otherwise it should return false.
+
+Look up some palindromes online and use these to test your program.

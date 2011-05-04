@@ -1,0 +1,7 @@
+C:\Users\Luke\AppData\Local\Temporary Projects\Palindromes\bin\Debug\Palindromes.exe
+C:\Users\Luke\AppData\Local\Temporary Projects\Palindromes\bin\Debug\Palindromes.pdb
+C:\Users\Luke\AppData\Local\Temporary Projects\Palindromes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\AppData\Local\Temporary Projects\Palindromes\obj\x86\Debug\Palindromes.exe
+C:\Users\Luke\AppData\Local\Temporary Projects\Palindromes\obj\x86\Debug\Palindromes.pdb
+J:\Playpen\2011-05-03\Palindromes\obj\x86\Debug\Palindromes.exe
+J:\Playpen\2011-05-03\Palindromes\obj\x86\Debug\Palindromes.pdb
